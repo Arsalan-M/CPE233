@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Cal Poly SLO: CPE 233 - Computer Design and Assembly Language Programming
+// Engineer: Arsalan Mughal
 // 
 // Create Date: 04/29/2019 10:00:25 PM
 // Design Name: 

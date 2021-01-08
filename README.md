@@ -5,6 +5,13 @@ Computer Architecture can be seen as the following:
 
 ![RAT MCU](https://github.com/Arsalan-M/CPE233/blob/master/RATCPUARCH.png)
 
+## Table of Contents
+* [Introduction](#introduction)
+* [Controls](#controls)
+* [Gameplay](#gameplay)
+* [Program Function](#program-function)
+* [Flowchart](#flowchart)
+
 ## Introduction
 
 This device is a development of the popular classic game of ‘Snake’ written in
@@ -86,8 +93,6 @@ Collisions are determined through checking against set values for game
 borders or through comparing the head value to body value locations for wall
 and self-collisions respectively. Food ‘collision’ is also checked in an equivalent
 method. Any wall/self-collisions lead to a death screen, then a game restart. 
-
-## Software Design
 
 ### Flowchart
 ![Software Flow Chart](https://github.com/Arsalan-M/CPE233/blob/master/SofwareFlowchart.png)

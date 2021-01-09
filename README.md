@@ -1,5 +1,6 @@
 # CPE233 - Computer Design and Assembly Language Programming
-This repository includes all associated System Verilog code used in devlelopment of the 8-bit RAT Architecture CPU
+This repository includes all associated System Verilog code used in devlelopment of the 8-bit RAT Architecture CPU,
+including assembly code for the game "Snake".
 
 Computer Architecture can be seen as the following:
 
